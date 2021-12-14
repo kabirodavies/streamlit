@@ -583,8 +583,10 @@ def main():
             # more human interpretable.
             # info about polarity and subjectivity
             st.markdown(
-                "The prediction Probability to help the analyst with the confidence"
-                " of predicting that particular class"
+                """
+                Prediction probability confidence"
+                
+                """
             )
 
             with col1:
